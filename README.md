@@ -93,7 +93,7 @@
         <li>Run the bot using <code>node index.js</code>.</li>
     </ol>
 
-    <h2>Prerequisites</h2>
+<h2>Prerequisites</h2>
     <ul>
         <li><strong>Node.js</strong>: Install Node.js and npm on your system.</li>
         <li><strong>FFmpeg</strong>: Ensure FFmpeg is installed for audio processing.</li>

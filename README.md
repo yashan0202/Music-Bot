@@ -101,6 +101,3 @@
     </ul>
 
   <h2> Developed by: Yash Anand </h2>
-
-</body>
-</html>

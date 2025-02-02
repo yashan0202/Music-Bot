@@ -100,4 +100,4 @@
         <li><strong>Discord Bot Token</strong>: Create a bot on the Discord Developer Portal and obtain a token.</li>
     </ul>
 
-  <h2> Developed by: Yash Anand </h2>
+  <h2> Developed by: Yash Anand</h2>
